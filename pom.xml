@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>naming-server</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<artifactId>eurekaserver</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>naming-server</name>
 	<description>Demo project for Spring Boot</description>
